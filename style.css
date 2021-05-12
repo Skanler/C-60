@@ -1,0 +1,21 @@
+.line{
+    height : 6px;
+    background-color :cadetblue;
+    width : 70px;
+    margin : 40px auto;
+}
+body{
+    text-align: center;
+}
+#app{
+    background-color : beige;
+}
+#chatbot{
+    background-color : darkgray;
+}
+#games{
+    background-color : aqua;
+}
+.flappyimage{
+    width : 20%;
+}
